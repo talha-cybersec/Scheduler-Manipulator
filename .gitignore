@@ -1,0 +1,9 @@
+# C build output
+c/worker
+c/mutex_demo
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
